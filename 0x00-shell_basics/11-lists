@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ltra -la -l /boot
+ls -l -a /alx-system_engineering-devops /boot
